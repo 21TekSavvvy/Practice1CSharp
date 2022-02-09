@@ -10,7 +10,7 @@ class AreaOfCircle
         // constant number of Pi
         const double PI = Math.PI;
 
-        // bug
+     
         System.Console.Write("Enter radius value:  ");
          radius=  Console.ReadLine();
         double r = Convert.ToDouble(radius);
